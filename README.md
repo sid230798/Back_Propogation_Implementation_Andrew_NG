@@ -1,0 +1,2 @@
+# Back_Propogation_Implementation_Andrew_NG
+Implemented complete Back Propogation Algorithm in octave
